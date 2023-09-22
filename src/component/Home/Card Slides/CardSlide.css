@@ -1,0 +1,38 @@
+.bg-gray{
+    background-color: #f1f5f9 !important;
+
+
+}
+.profile-avater{
+    width: 30px;
+    border-radius: 50%;
+}
+.recommendedHeading{
+    font-size: calc(1.275rem + .3vw);
+    font-weight: 600;
+line-height: 1.5;
+margin-top: 4rem;
+margin-bottom: 2rem;
+}
+.trendingcard{
+    max-width: 100% ;
+   
+}
+.react-multiple-carousel__arrow{
+    background-color: rgba(184, 187, 187, 0.333) !important;
+    border: 2px solid rgb(244, 242, 242) !important;
+    
+}
+.react-multiple-carousel__arrow--right{
+    right: 9px !important;
+    position: absolute;
+
+}
+.react-multiple-carousel__arrow--left{
+    left: 9px !important;
+    position: absolute;
+
+}
+.card-row{
+    --bs-gutter-x : 0px !important;    
+}

@@ -1,0 +1,34 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f1f5f9 !important;
+    height: 100vh;
+
+}
+.signUpBox{
+max-width: 550px;
+width: 90%;
+background-color: white;
+padding: 2.5rem;
+border-radius: 10px;
+}
+.signInHeading{
+    font-size: calc(1.325rem + .9vw);
+font-weight: 700;
+margin-top: 2rem;
+}
+.form-label{
+    font-weight: 600;
+}
+.icon{
+    border: 1px solid #754ffe;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin: 0 0.1rem;
+    margin-top: 1.2rem !important;
+    
+}
+.icon:hover{
+    background-color: #64748b;
+}

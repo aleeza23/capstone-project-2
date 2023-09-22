@@ -1,0 +1,57 @@
+.blue-bg{
+    background-color: #754ffe;
+    padding:  1.9rem 0 !important;
+}
+.text-white{
+   color: #fff; 
+   font-weight: 600;
+line-height: 1.2;
+}
+.bg-body{
+    background-color: #f1f5f9 !important;
+   padding: 1.6rem 0;
+}
+.displaingCourses{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.btn-grid{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.btn-list{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+   
+
+}
+.row-gutter{
+    --bs-gutter-x: 1.5rem !important;
+}
+
+.btn-cart{
+    position: relative;
+}
+.cart-items{
+    width: 1.5rem !important;
+    height: 1.5rem;
+    border-radius: 50%;
+    position: absolute;
+    top: -10px;
+    right: -8px;
+    color: #fcf9f9;
+    background-color: black !important;
+}
+.modal-dialog{
+    position: absolute !important;
+    right: 0 !important;
+    top: 0 !important;
+    width: 80% !important;
+    height: 100% !important;
+}
+.cartCounting{
+    border: 1px solid black ;
+    padding: 3px 10px;
+}
+

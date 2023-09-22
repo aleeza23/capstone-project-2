@@ -1,0 +1,9 @@
+.footer-bg {
+    padding-top: 4rem;
+    background-color: #f1f5f9 !important;
+
+
+}
+.list-group-item:hover{
+color: blue;
+}

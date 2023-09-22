@@ -1,0 +1,40 @@
+.body-bg {
+    background-color: #f1f5f9;
+    padding: 3rem 0;
+}
+
+.roundedImg {
+    border-radius: 50%;
+    width: 80px;
+    border: 4px solid white;
+    position: absolute;
+    top: 3.5rem;
+}
+
+.white-bg {
+    background-color: #fefefe;
+    padding: 1.3rem 2rem;
+    height: 90px;
+}
+.userName {
+    font-size: calc(1.275rem + .3vw);
+    font-weight: 600;
+    line-height: 1.5;
+}
+.heading{
+    color: var(--geeks-gray-800);
+    font-weight: 700 !important;
+    
+}
+.catagoryH{
+    color: var(--geeks-gray-500);
+font-size: .6875rem;
+font-weight: 500;
+letter-spacing: 1px;
+margin-bottom: .2rem;
+padding: .3rem .4rem;
+text-transform: uppercase;
+}
+.nav-link{
+    color: var(--geeks-gray-500) !important;
+}

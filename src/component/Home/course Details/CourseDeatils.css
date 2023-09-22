@@ -1,0 +1,19 @@
+.bg-white{
+    background-color: #fff !important;
+}
+.course-heading{
+    font-weight: 600 !important;
+    font-size: 1rem;
+}
+.course-text{
+   color: gray !important;
+}
+.bg-light-warning{
+    background-color: #eddbc7 !important;
+   border-radius:  50%;
+   padding: 1rem;
+   width: 50%;
+   height: 50%;
+   
+  
+}

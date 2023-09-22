@@ -1,0 +1,17 @@
+.nav-item .nav-link {
+    margin: 0px 3px;
+    font-size: 1rem !important;
+    font-weight: 500;
+    color: #202b3e !important;
+}
+.nav-item .nav-link:hover{
+    color: #1560e3 !important;
+
+}
+.lightBlueIcon{
+    padding: 10px;
+    border-radius: 50%;
+    background-color: lightBlue;
+    background-position:50%;
+    background-size:22px;
+}
